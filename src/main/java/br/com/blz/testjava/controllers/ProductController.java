@@ -21,7 +21,7 @@ public class ProductController {
 	
  
 	
-	@Autowired //to get bean warehouseRepository
+	@Autowired //to get bean productRepository
 	private ProductRepository productRepository;
 	
 	//CREATE
